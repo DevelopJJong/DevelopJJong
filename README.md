@@ -11,7 +11,8 @@
   [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)]()
   [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)]()
 <br>
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/Joowon0220/weather) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/Joowon0220/SpringMVC)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)]()
 <br>
 <br><br><br>
 
