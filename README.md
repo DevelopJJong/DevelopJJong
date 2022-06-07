@@ -20,6 +20,9 @@
 
   
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://jjdevelop.tistory.com/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dlguswhd00110011@gmail.com)
+
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2DevelopJJong)](https://hits.seeyoufarm.com) 
 <br><br><br>
 ## ✨ Stats
 
