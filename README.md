@@ -1,6 +1,6 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=238&section=header&text=JJongE's%20GitHub&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=&height=230&section=header&text=JJongE's%20GitHub&fontSize=75&fontColor=FFFFFF)
   
 ##  💬 Welcome My GitHub
 <br><br><br>
