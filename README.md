@@ -1,6 +1,6 @@
 <div align='center'>
   
-##  💬 Welcome To JJongE's GitHub
+##  💬 Welcome To DevelopJJong's GitHub
 <br><br><br>
 ## 💻 Technology Stack
 
