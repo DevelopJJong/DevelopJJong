@@ -13,7 +13,7 @@
   ### 📟 Channel
 [![TechBlog](https://img.shields.io/badge/&nbsp;Blog-181717?style=flat-square&logo=Tistory&logoColor=white)](https://jjdevelop.tistory.com/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/DevelopJJong/)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://github.com/DevelopJJong/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)]([https://github.com/DevelopJJong/](https://www.linkedin.com/in/%ED%98%84%EC%A2%85-%EC%9D%B4-675b40242/))&nbsp;&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=Readme&logoColor=white)]()
 
   ### ✉️ Contact
