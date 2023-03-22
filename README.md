@@ -1,12 +1,10 @@
 <div align='center'>
-  
-#  💬 Welcome To DevelopJJong's GitHub
-  <br><br><br></br>
-  
 
+ #  💬 Welcome To DevelopJJong's GitHub
 
+<br>
+<img height="100%" src="https://user-images.githubusercontent.com/101362306/226856448-19f605d3-2684-4425-9b6c-5656ffd9325b.gif"/>
 
-  <br><br><br><br>
 ##
 <br>
 
