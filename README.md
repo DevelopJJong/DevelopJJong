@@ -3,7 +3,8 @@
  #  💬 Welcome To DevelopJJong's GitHub
 
 <br>
-<img height="100%" src="https://user-images.githubusercontent.com/101362306/226856448-19f605d3-2684-4425-9b6c-5656ffd9325b.gif"/>
+ 
+![DevelopJJong0](https://user-images.githubusercontent.com/101362306/226858794-0d6760ae-4108-4de6-a30e-4215e5c1365c.gif)
 
 ##
 <br>
