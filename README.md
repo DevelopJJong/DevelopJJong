@@ -1,12 +1,11 @@
 <div align='center'>
 
- #  💬 Welcome To DevelopJJong's GitHub
+ #  🤵 Welcome To DevelopJJong's GitHub
 
 <br>
  
 ![DevelopJJong0](https://user-images.githubusercontent.com/101362306/226858794-0d6760ae-4108-4de6-a30e-4215e5c1365c.gif)
 
-##
 <br>
 
 # 🧑 About Me 
@@ -24,7 +23,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2DevelopJJong)](https://hits.seeyoufarm.com) 
 <br><br><br>
 
-##
 
 <br>
 
@@ -37,7 +35,6 @@
 
 <br><br>
 
-##
 
 <br>
 
