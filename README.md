@@ -4,7 +4,7 @@
 
 <br>
  
-![DevelopJJong0](https://user-images.githubusercontent.com/101362306/226858794-0d6760ae-4108-4de6-a30e-4215e5c1365c.gif)
+![DevelopJJong0](https://user-images.githubusercontent.com/101362306/227734280-071f737d-236c-4d98-9bee-425767ad9656.png)
 
 <br>
 
