@@ -4,7 +4,8 @@
 
 <br>
  
-[![DevelopJJong0](https://user-images.githubusercontent.com/101362306/227734280-071f737d-236c-4d98-9bee-425767ad9656.png)](https://github.com/DevelopJJong/)
+[![제목 없음 (LinkedIn 배경 사진)](https://user-images.githubusercontent.com/101362306/229488778-16486854-201d-4c69-b2c9-42ab2a0aee06.svg)](https://github.com/DevelopJJong/)
+
 
 <br>
 
