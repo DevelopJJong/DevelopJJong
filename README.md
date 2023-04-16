@@ -18,7 +18,7 @@
 [![Resume](https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=Readme&logoColor=white)]()
 
   ### ✉️ Contact
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dlguswhd00110011@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:developjjong@gmail.com)
 
   ### ❤️ Visit 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2DevelopJJong)](https://hits.seeyoufarm.com) 
