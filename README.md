@@ -15,7 +15,7 @@
 [![TechBlog](https://img.shields.io/badge/TechBlog-181717?style=flat-square&logo=Tistory&logoColor=white)](https://jjdevelop.tistory.com/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/DevelopJJong/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%ED%98%84%EC%A2%85-%EC%9D%B4-675b40242/)&nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=Readme&logoColor=white)]()
+[![Resume](https://developjjong.notion.site/0eb2fd0e33d9468a8b7800cfe91bb828)
 
   ### ✉️ Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:developjjong@gmail.com)
